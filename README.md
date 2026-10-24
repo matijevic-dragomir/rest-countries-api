@@ -38,8 +38,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/dragi-ns/rest-countries-api
-- Live Site URL: https://tubular-pithivier-19ba90.netlify.app/
+- Solution URL: https://github.com/matijevic-dragomir/rest-countries-api
 
 ## My process
 
@@ -56,4 +55,4 @@ Users should be able to:
 
 ## Author
 
-- Website - [dragi-ns](https://github.com/dragi-ns)
+- Website - [matijevic-dragomir](https://github.com/matijevic-dragomir)
